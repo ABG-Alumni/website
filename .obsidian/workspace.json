@@ -1,142 +1,55 @@
 {
   "main": {
-    "id": "8bf0e571c91c50a9",
+    "id": "c7e9af2dc01d0c41",
     "type": "split",
     "children": [
       {
-        "id": "6aec87068bc80ee0",
+        "id": "0a649f5f85fce1ed",
         "type": "tabs",
         "children": [
           {
-            "id": "9cd99bef1f42a67c",
+            "id": "c71db6ad402edb80",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "📜Tài nguyên/Chính sách công ty/Bảo hiểm/Nhân sự/Bảo Việt/Cấp quản lý/Tuyển luyện tính theo số thưởng cho tvv mới.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Tuyển luyện tính theo số thưởng cho tvv mới"
-            }
-          },
-          {
-            "id": "3c244712634d0ef0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "📐Dự án/Chạy chỉ tiêu/Bản câu hỏi cho người muốn nhờ cho liên lạc của những người quanh mình.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Bản câu hỏi cho người muốn nhờ cho liên lạc của những người quanh mình"
-            }
-          },
-          {
-            "id": "0f886291f74beb0f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "⚡Hiểu biết sâu/Tổ chức tài chính/Bảo hiểm/Nhu cầu, lợi ích của khách hàng/Khi nào thì bảo hiểm xã hội là không đủ.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Khi nào thì bảo hiểm xã hội là không đủ"
-            }
-          },
-          {
-            "id": "b32ac7ae8595f6f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "📐Dự án/Chạy chỉ tiêu/Bảo hiểm/Tài liệu/Tuyển dụng/Khi nào thì việc đi bán bảo hiểm là lựa chọn của một người.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Khi nào thì việc đi bán bảo hiểm là lựa chọn của một người"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "2d8f307e38e31876",
+    "id": "cb1c2b3fb1fb253d",
     "type": "split",
     "children": [
       {
-        "id": "48b0ccac391536af",
+        "id": "c7a4d0a26e71fc7a",
         "type": "tabs",
         "children": [
           {
-            "id": "776a43425fc4ec1e",
+            "id": "43ad128c6feb3ea6",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
             }
           },
           {
-            "id": "0ef979fa3da220f9",
+            "id": "4bcaf2f8f2a09b04",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "Hỏi biết momo hỏi biết shopee biết tiktok ko hồi mới ra momo giới thiệu 1 ng là đc 200k ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -148,7 +61,7 @@
             }
           },
           {
-            "id": "a13cf94dec68cc87",
+            "id": "5a86c3ea45b22beb",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -161,24 +74,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
-    "id": "058d2be84526927e",
+    "id": "8a1feea452eb10eb",
     "type": "split",
     "children": [
       {
-        "id": "728331c0ed2f1d97",
+        "id": "94321933125064b4",
         "type": "tabs",
         "children": [
           {
-            "id": "dcec014384cb2a9e",
+            "id": "4eaf6e472c525d87",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📐 Dự án/Chạy chỉ tiêu/Làm nhân viên ảo/FE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,46 +99,49 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Liên kết đến của FE"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "b0d685f03805e1d1",
+            "id": "93a606bdf1f3b39b",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "⚡Hiểu biết sâu/Kiếm tiền/Di cư.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Di cư"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "30b982237b07c592",
+            "id": "fdc92e570a3bcb4a",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
             }
           },
           {
-            "id": "3654ebe218592e69",
+            "id": "c7b946ebbdc01c39",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "⚡Hiểu biết sâu/Kiếm tiền/Di cư.md"
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Di cư"
+              "title": "Outline"
             }
           }
         ]
@@ -239,68 +153,14 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "command-palette:Open command palette": false,
-      "obsidian42-brat:BRAT": false,
-      "templater-obsidian:Templater": false,
-      "darlal-switcher-plus:Open in Headings Mode": false,
-      "darlal-switcher-plus:Open Symbols for the active editor": false,
-      "open-vscode:VSCode": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
-  "active": "0f886291f74beb0f",
-  "lastOpenFiles": [
-    "📐Dự án/Chạy chỉ tiêu/Bản câu hỏi cho người muốn nhờ cho liên lạc của những người quanh mình.md",
-    "⚡Hiểu biết sâu/Tổ chức tài chính/Bảo hiểm/Nhu cầu, lợi ích của khách hàng/Khi nào thì bảo hiểm xã hội là không đủ.md",
-    "📜Tài nguyên/Chính sách công ty/Thu hồi nợ/Không xem đây là đe dọa, mà là đánh vào nỗi sợ.md",
-    "📜Tài nguyên/Chương trình quản lý tiền/Chương trình quản lý tiền.md",
-    "Không xem đây là đe dọa, mà là đánh vào nỗi sợ.sync-conflict-20250214-113813-HVOE7P3.md",
-    "📜Tài nguyên/Chính sách công ty/Bảo hiểm/Nhân sự/Bảo Việt/Cấp quản lý/Tuyển luyện tính theo số thưởng cho tvv mới.md",
-    "Họ có muốn nghe về điều đó không.md",
-    "📐Dự án/Chạy chỉ tiêu/Đứng ra ngồi cùng với người khác chứ không phải chỉ là giới thiệu.md",
-    "⚡Hiểu biết sâu/Tâm lý học quản lý và lao động/Sắp xếp độ ưu tiên/Có người giới thiệu về vấn đề có lẽ là cách duy nhất để làm được những thứ mình muốn làm nhưng không khẩn cấp.md",
-    "📐Dự án/Chạy chỉ tiêu/Bảo hiểm/Kế hoạch/Kế hoạch.md",
-    "📐Dự án/Chạy chỉ tiêu/Bảo hiểm/Bảo hiểm.md",
-    "📐Dự án/Giúp nhau thoát nợ/Tài liệu/Bản câu hỏi cho người cần được hỗ trợ thoát nợ.md",
-    "📐Dự án/Giúp nhau thoát nợ/Khách hàng/Hoàng Thu Trang.md",
-    "~syncthing~Không xem đây là đe dọa, mà là đánh vào nỗi sợ.md.tmp",
-    "📜Tài nguyên/Chính sách công ty/Thu hồi nợ/Thuật ngữ.md",
-    "📜Tài nguyên/Chính sách công ty/Thu hồi nợ/FE Credit/Newtopup thì 1 cái 100% target Newtopup = 20% kpi tổng ,5 cái 100% kpi tổng.md",
-    "📐Dự án/Chạy chỉ tiêu/Sàn thương mại/Lý do không tham gia.md",
-    "📐Dự án/Chạy chỉ tiêu/Sàn thương mại",
-    "📐Dự án/Chạy chỉ tiêu/Bảo hiểm/Tài liệu/Tuyển dụng/Khi nào thì việc đi bán bảo hiểm là lựa chọn của một người.md",
-    "📐Dự án/Giúp nhau thoát nợ/Tài liệu/~syncthing~Các lý do cho việc giúp đỡ hoặc không giúp đỡ.md.tmp",
-    "📐Dự án/Giúp nhau thoát nợ/Tài liệu/~syncthing~template.md.tmp",
-    "📐Dự án/Chạy chỉ tiêu/~syncthing~Chạy chỉ tiêu.md.tmp",
-    "📐Dự án/Giúp nhau thoát nợ/Tài liệu/~syncthing~Thông tin cho người cho vay.md.tmp",
-    "📐Dự án/Giúp nhau thoát nợ/Tài liệu/~syncthing~Làm sao để cho mượn hiệu quả hơn.md.tmp",
-    "📜Tài nguyên/Chính sách công ty/Bảo hiểm/Nhân sự/Bảo Việt/Cấp quản lý/Trưởng nhóm.md",
-    "📜Tài nguyên/Chính sách công ty/Bảo hiểm/Nhân sự/Cathay/Chỉ người cần tiền mới đi làm công việc bán hàng, nhưng việc trả tiền sau không làm cho họ muốn đi bán.md",
-    "📐Dự án/Giúp nhau thoát nợ/Công việc/Làm nhân viên ảo/động lực ép chỉ tiêu của ác công ty.md",
-    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, cộng tác viên/Cho nhân viên, đại lý/Giữ tiền hộ.md",
-    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, cộng tác viên/Cho nhân viên, đại lý/Đổi tiền, chụp hình biển hiệu, dán mã QR.md",
-    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, cộng tác viên/Cho nhân viên, đại lý/Untitled.md",
-    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, cộng tác viên/Cho nhân viên, đại lý/Viết hợp đồng, thu thập thông tin khách hàng tiềm năng.md",
-    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, cộng tác viên/Cho nhân viên, đại lý/Làm nhân viên ảo.md",
-    "📜Tài nguyên/Ý tưởng kiếm tiền/2 Hình thức/Vị trí chính thức của một công ty.md",
-    "Ξ Thiết lập/Ảnh/Đặc điểm của TVV mới.png",
-    "📜Tài nguyên/Các dịch vụ cho vay/Công ty tài chính tiêu dùng/FE",
-    "📜Tài nguyên/Các dịch vụ cho vay/Công ty tài chính tiêu dùng",
-    "📜Tài nguyên/Các dịch vụ cho vay/Công ty tài chitiêu dùng/FE",
-    "Ξ Thiết lập/Ảnh/Pasted image 20250122171929.png",
-    "Ξ Thiết lập/Ảnh/Tháp áp lực, tháp huy động, tháp người thân.png",
-    "Ξ Thiết lập/Ảnh/Phân tích, làm rõ, cô lập, phản hồi.png",
-    "Ξ Thiết lập/Ảnh/Lừa đảo/Hoàng Thu Trang/ca1ac4d9-6ebf-457d-8d19-fd62e7e6577d.jpg",
-    "Ξ Thiết lập/Ảnh/Lừa đảo/Hoàng Thu Trang/a25ebc40-2bfb-462d-a8e8-42b9cc3ae76f.jpg",
-    "Ξ Thiết lập/Ảnh/Lừa đảo/Hoàng Thu Trang/9a3a87b1-1241-4de3-a910-1ad6e2c5d2e3.jpg",
-    "Ξ Thiết lập/Ảnh/Lừa đảo/Hoàng Thu Trang/834cb276-6590-4973-8976-b6fd2d2fa14d.jpg",
-    "Ξ Thiết lập/Ảnh/Lừa đảo/Hoàng Thu Trang/0f0b334d-cbb7-449d-a5c0-82a14b20eb1a.jpg",
-    "Ξ Thiết lập/Ảnh/Lừa đảo/Hoàng Thu Trang/0b29df8d-d8b2-4699-933e-a6e82bc1621f.jpg",
-    "📐 Dự án/Công cụ cho hệ sinh thái/Nền kinh tế tri thức.canvas",
-    "Untitled.canvas"
-  ]
+  "active": "c71db6ad402edb80",
+  "lastOpenFiles": []
 }

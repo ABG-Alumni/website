@@ -1,0 +1,243 @@
+{
+  "main": {
+    "id": "8bf0e571c91c50a9",
+    "type": "split",
+    "children": [
+      {
+        "id": "ea896d17028209a6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "28433deec4cfa02a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dữ liệu thành viên/Open 02/Lê Thị Trang – ABG Alumni.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Lê Thị Trang – ABG Alumni"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2d8f307e38e31876",
+    "type": "split",
+    "children": [
+      {
+        "id": "48b0ccac391536af",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "776a43425fc4ec1e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "0ef979fa3da220f9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "Hỏi biết momo hỏi biết shopee biết tiktok ko hồi mới ra momo giới thiệu 1 ng là đc 200k ",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a13cf94dec68cc87",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "058d2be84526927e",
+    "type": "split",
+    "children": [
+      {
+        "id": "728331c0ed2f1d97",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dcec014384cb2a9e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "📐 Dự án/Chạy chỉ tiêu/Làm nhân viên ảo/FE.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Liên kết đến của FE"
+            }
+          },
+          {
+            "id": "b0d685f03805e1d1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "⚡Hiểu biết sâu/Kiếm tiền/Di cư.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Di cư"
+            }
+          },
+          {
+            "id": "30b982237b07c592",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "3654ebe218592e69",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "⚡Hiểu biết sâu/Kiếm tiền/Di cư.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Di cư"
+            }
+          },
+          {
+            "id": "9599f131d62d97eb",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian42-brat:BRAT": false,
+      "templater-obsidian:Templater": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "open-vscode:VSCode": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "28433deec4cfa02a",
+  "lastOpenFiles": [
+    "Dữ liệu thành viên/Open 02/Hà Thị Thu Thủy – ABG Alumni.md",
+    "Dữ liệu thành viên/Open 02/Nguyễn Đức Sâm – ABG Alumni.md",
+    "Dữ liệu thành viên/Open 02/Nguyễn Tùng Hoa – ABG Alumni.md",
+    "Dữ liệu thành viên/Open 02/Vũ Thị Thư – ABG Alumni.md",
+    "Dữ liệu thành viên/Open 02/Bùi Ngọc Liên – ABG Alumni.md",
+    "Dữ liệu thành viên/Open 02/Nguyễn Xuân Thành – ABG Alumni.md",
+    "Dữ liệu thành viên/Open 02/Lê Thị Trang – ABG Alumni.md",
+    "Dữ liệu thành viên/Open 02/Mai Thị Hải Quỳnh – ABG Alumni.md",
+    "Dữ liệu thành viên/Open 02/Hương Thảo – ABG Alumni.md",
+    "Dữ liệu thành viên/Open 01/Đoàn Trung Tân – ABG Alumni.md",
+    "Dữ liệu thành viên/Open 02",
+    "Dữ liệu thành viên/Open 01/Nguyễn Ngọc Ánh – ABG Alumni.md",
+    "Dữ liệu thành viên/Open 01/Trần Thành Quang Tài – ABG Alumni.md",
+    "Dữ liệu thành viên/Open 01/Lê Thái Sơn.md",
+    "Dữ liệu thành viên/Open 01/Hồ Anh Dũng – ABG Alumni.md",
+    "Welcome.md",
+    "Dữ liệu thành viên/Open 01",
+    "Dữ liệu thành viên/Open 01.md",
+    "Clippings/ABG Open 1 – ABG Alumni.md",
+    "Clippings/Dữ liệu thành viên.md",
+    "Clippings/ABG Alumni – Mạng lưới học viên ABG Alumni.md",
+    "Về chúng tôi.md",
+    "Clippings",
+    "_site/pagefind/fragment/en_e759f81.pf_fragment",
+    "_site/pagefind/pagefind.en_d9bc3d4d70.pf_meta",
+    "_site/pagefind/index/en_acbe4a2.pf_index",
+    "_site/pagefind/fragment/en_634db4c.pf_fragment",
+    "_site/pagefind/fragment/en_d6812d9.pf_fragment",
+    "_site/pagefind/fragment/en_31be629.pf_fragment",
+    "_site/pagefind/pagefind.en_63a26841a8.pf_meta",
+    "Dữ liệu thành viên/Open 09/Hồ Quốc Đăng Khánh.md",
+    "docs/Về chúng tôi.md",
+    "docs/_DSC9706.jpg",
+    "docs/Dữ liệu thành viên/Open 09/LY MINH MNHAAT.md",
+    "docs/Dữ liệu thành viên/Open 09/Hồ Quốc Đăng Khánh.md",
+    "docs/Welcome.md",
+    "Dữ liệu thành viên/Open 09/LY MINH MNHAAT.md",
+    "_site/docs/assets/favicon.svg",
+    "Ξ Thiết lập/Ảnh/Đặc điểm của TVV mới.png",
+    "Ξ Thiết lập/Ảnh/Pasted image 20250122171929.png",
+    "Ξ Thiết lập/Ảnh/Tháp áp lực, tháp huy động, tháp người thân.png",
+    "Ξ Thiết lập/Ảnh/Phân tích, làm rõ, cô lập, phản hồi.png",
+    "Ξ Thiết lập/Ảnh/Lừa đảo/Hoàng Thu Trang/ca1ac4d9-6ebf-457d-8d19-fd62e7e6577d.jpg",
+    "Ξ Thiết lập/Ảnh/Lừa đảo/Hoàng Thu Trang/a25ebc40-2bfb-462d-a8e8-42b9cc3ae76f.jpg",
+    "Ξ Thiết lập/Ảnh/Lừa đảo/Hoàng Thu Trang/9a3a87b1-1241-4de3-a910-1ad6e2c5d2e3.jpg",
+    "Ξ Thiết lập/Ảnh/Lừa đảo/Hoàng Thu Trang/834cb276-6590-4973-8976-b6fd2d2fa14d.jpg",
+    "📐 Dự án/Công cụ cho hệ sinh thái/Nền kinh tế tri thức.canvas",
+    "Untitled.canvas"
+  ]
+}

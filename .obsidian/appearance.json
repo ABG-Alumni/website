@@ -1,11 +1,1 @@
-{
-  "accentColor": "",
-  "theme": "system",
-  "cssTheme": "Catppuccin",
-  "baseFontSize": 18,
-  "showViewHeader": true,
-  "enabledCssSnippets": [
-    "style-importer",
-    "MCL Wide Views"
-  ]
-}
+{}

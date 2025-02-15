@@ -1,3 +1,7 @@
+---
+created: 2025-02-15T11:13
+updated: 2025-02-15T12:37
+---
 This is your new *vault*.
 
 Make a note of something, [[create a link]], or try [the Importer](https://help.obsidian.md/Plugins/Importer)!
